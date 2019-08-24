@@ -18,3 +18,8 @@ img {
     background-color: #4aaaa5 !important;
 }
 
+@media (max-width: 767px) {
+    .jumbotron {
+      width: 250px;
+    }
+  }
