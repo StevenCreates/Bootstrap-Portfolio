@@ -22,4 +22,7 @@ img {
     .jumbotron {
       width: 250px;
     }
+    .card {
+        margin-top: 1em;
+    }
   }
